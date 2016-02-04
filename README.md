@@ -1,2 +1,3 @@
 # dojo
-Repository for code generated on Dojos
+
+Repository for code generated on R&D Brazil Dojos
